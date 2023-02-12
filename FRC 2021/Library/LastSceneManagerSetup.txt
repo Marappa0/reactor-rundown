@@ -1,0 +1,5 @@
+sceneSetups:
+- path: /Users/marappa/Unity/FRC Test/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
